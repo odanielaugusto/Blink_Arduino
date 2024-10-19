@@ -14,12 +14,12 @@ Desenvolvimento de um código que permite o LED de uma placa Arduino piscar dura
 
 
 ### 1.3 Video do Arduino rodando o código blink
-<video src="Video_Blink.mp4" width="3320" height="340" controls></video>
+Link:  https://youtu.be/peM5mcI7UTs
 
 ## Parte 2: Simulando Blink Externo
 
 <img src= "Protoboard_Tinkercard.png" alt =  "Imagem Representativa do circuito do projeto" />
 
-Link: https://www.tinkercad.com/things/1EHApGqCirf-ponderadaprog1/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=UjclUwBUGJ510fjELabScPHJCtodOiDXrK77R2m63_0 
+Link do Circuito no Tinkercard: https://www.tinkercad.com/things/1EHApGqCirf-ponderadaprog1/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=UjclUwBUGJ510fjELabScPHJCtodOiDXrK77R2m63_0 
 
 
